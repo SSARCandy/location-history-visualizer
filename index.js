@@ -3,8 +3,8 @@
 		heatOptions = {
 			tileOpacity: 1,
 			heatOpacity: 1,
-			radius: 25,
-			blur: 15
+			radius: 3,
+			blur: 3
 		};
 
 	function status( message ) {
